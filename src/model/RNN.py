@@ -1,6 +1,6 @@
 import torch.nn as nn
 import torch
-from hyperparameter import vae_weight, joint_weight, joint_dim, _activation
+from hyperparameter import joint_weight, joint_dim, _activation
 
 
 
