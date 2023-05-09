@@ -9,8 +9,8 @@
 二つのタスクを区別してタスクを遂行できるようになった。しかし、一部のデータではタスクを間違えてしまうことがある。
 
 
-https://user-images.githubusercontent.com/115874828/237037693-3a77d1b8-1fdc-45b5-a11d-a09624dcd443.mp4
 
+https://user-images.githubusercontent.com/115874828/237038007-d021ce71-0e25-4ee9-8fd3-c72775105159.mp4
 
 
 ## To Do
